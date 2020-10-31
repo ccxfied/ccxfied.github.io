@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ccxfied.github.io/qualcomm-snapdragon-865.html",
+            "url": "https://ccxfied.github.io/qualcomm-snapdragon-865.html",
+            "title": "Qualcomm Snapdragon 865",
+            "summary": " Cluster(s)/big.LITTLE Configuration: Cortex A77 \"Kryo 585 Gold\" @ 2.84GHz x1 [L1:128KiB;&hellip;",
+            "content_html": "\n    <h2 id=\"clustersbiglittle-configuration\">\n      Cluster(s)/big.LITTLE Configuration:\n    </h2>\n\n  <ul>\n    <li>Cortex A77 \"Kryo 585 Gold\" @ 2.84GHz x1 [L1:128KiB; L2:512KiB]</li><li>Cortex A77 \"Kryo 585 Gold\" @ 2.42GHz x3 [L1:384KiB; L2:768KiB]</li><li>Cortex A55 \"Kryo 585 Silver\" @ 1.8GHz x4 [L1:512KiB; L2:512KiB]</li>\n  </ul>\n\n    <h2 id=\"memory-specifications\">\n      Memory Specifications:\n    </h2>\n\n  <ul>\n    <li>L3 Cache: 4MiB</li><li>Quad Channel Memory; Single Controller</li><li>Upto 16GiB LPPDDR5-5500</li>\n  </ul>",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+                   "snapdragon"
+            ],
+            "date_published": "2020-10-31T17:14:52+05:30",
+            "date_modified": "2020-10-31T17:14:52+05:30"
+        },
+        {
             "id": "https://ccxfied.github.io/global-foundriesamd-opterontm-a1170.html",
             "url": "https://ccxfied.github.io/global-foundriesamd-opterontm-a1170.html",
             "title": "Global Foundries/AMD Opteron™ A1170",

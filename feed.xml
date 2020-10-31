@@ -3,12 +3,48 @@
     <title>CCXFied Official</title>
     <link href="https://ccxfied.github.io/feed.xml" rel="self" />
     <link href="https://ccxfied.github.io" />
-    <updated>2020-10-31T16:40:40+05:30</updated>
+    <updated>2020-10-31T17:14:52+05:30</updated>
     <author>
         <name>Cortex Cortexified</name>
     </author>
     <id>https://ccxfied.github.io</id>
 
+    <entry>
+        <title>Qualcomm Snapdragon 865</title>
+        <author>
+            <name>Cortex Cortexified</name>
+        </author>
+        <link href="https://ccxfied.github.io/qualcomm-snapdragon-865.html"/>
+        <id>https://ccxfied.github.io/qualcomm-snapdragon-865.html</id>
+            <category term="snapdragon"/>
+
+        <updated>2020-10-31T17:14:52+05:30</updated>
+            <summary>
+                <![CDATA[
+                     Cluster(s)/big.LITTLE Configuration: Cortex A77 "Kryo 585 Gold" @ 2.84GHz x1 [L1:128KiB;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="clustersbiglittle-configuration">
+      Cluster(s)/big.LITTLE Configuration:
+    </h2>
+
+  <ul>
+    <li>Cortex A77 "Kryo 585 Gold" @ 2.84GHz x1 [L1:128KiB; L2:512KiB]</li><li>Cortex A77 "Kryo 585 Gold" @ 2.42GHz x3 [L1:384KiB; L2:768KiB]</li><li>Cortex A55 "Kryo 585 Silver" @ 1.8GHz x4 [L1:512KiB; L2:512KiB]</li>
+  </ul>
+
+    <h2 id="memory-specifications">
+      Memory Specifications:
+    </h2>
+
+  <ul>
+    <li>L3 Cache: 4MiB</li><li>Quad Channel Memory; Single Controller</li><li>Upto 16GiB LPPDDR5-5500</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Global Foundries/AMD Opteron™ A1170</title>
         <author>
