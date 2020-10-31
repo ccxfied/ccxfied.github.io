@@ -3,10 +3,59 @@
     <title>CCXFied Official</title>
     <link href="https://ccxfied.github.io/feed.xml" rel="self" />
     <link href="https://ccxfied.github.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2020-10-31T16:40:40+05:30</updated>
     <author>
         <name>Cortex Cortexified</name>
     </author>
     <id>https://ccxfied.github.io</id>
 
+    <entry>
+        <title>Global Foundries/AMD Opteron™ A1170</title>
+        <author>
+            <name>Cortex Cortexified</name>
+        </author>
+        <link href="https://ccxfied.github.io/global-foundriesamd-opterontm-a1170.html"/>
+        <id>https://ccxfied.github.io/global-foundriesamd-opterontm-a1170.html</id>
+            <category term="amd"/>
+
+        <updated>2020-10-31T16:40:40+05:30</updated>
+            <summary>
+                <![CDATA[
+                     TDP - 32W&nbsp; Core Count - 8*A57 Aarch64 "Seattle" CoresL2 Cache&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <ul>
+    <li><span style="color: var(--eb-text-primary-color); font-family: var(--font-base); font-size: 1em; font-weight: var(--font-weight-normal);">TDP - 32W&nbsp;</span><br></li><li>Core Count - 8*A57 Aarch64 "Seattle" Cores</li><li>L2 Cache - 4MB&nbsp;</li><li>L3 Cache - 8MB&nbsp;</li><li>Lithography: 28NM TSMC</li><li>SKUs:&nbsp;OA1170AQD8NAD [BGA:"SP1", OEM/Tray, Jan 2016]</li><li>CPU Clock GHz - 2.0&nbsp;</li><li>Temp Range&nbsp;: 0C – 80C
+<br></li>
+  </ul>
+
+    <h2 id="memory-specifications">
+      Memory Specifications
+    </h2>
+
+  <ul>
+    <li>Max Supported Memory: 128GB</li><li>Dual Channel [2 DIMMs per Channel]</li><li>Max DDR3 Rate - 1600MHz</li><li>Max DDR4 Rate - 1866MHz</li><li>ECC : Yes</li>
+  </ul>
+
+    <h2 id="igpuintegrated-peripherals">
+      iGPU/Integrated Peripherals
+    </h2>
+
+  <ul>
+    <li>iGPU: N/A</li><li>PCIe 3.0 8 lanes&nbsp;</li><li>SATA 6GB/S*14&nbsp;</li><li>Network: 10GbE x2&nbsp;</li><li>Misc: I2C; SPI; UART</li>
+  </ul>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

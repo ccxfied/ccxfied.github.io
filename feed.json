@@ -9,5 +9,20 @@
         "name": "Cortex Cortexified"
     },
     "items": [
+        {
+            "id": "https://ccxfied.github.io/global-foundriesamd-opterontm-a1170.html",
+            "url": "https://ccxfied.github.io/global-foundriesamd-opterontm-a1170.html",
+            "title": "Global Foundries/AMD Opteron™ A1170",
+            "summary": " TDP - 32W&nbsp; Core Count - 8*A57 Aarch64 \"Seattle\" CoresL2 Cache&hellip;",
+            "content_html": "\n  <ul>\n    <li><span style=\"color: var(--eb-text-primary-color); font-family: var(--font-base); font-size: 1em; font-weight: var(--font-weight-normal);\">TDP - 32W&nbsp;</span><br></li><li>Core Count - 8*A57 Aarch64 \"Seattle\" Cores</li><li>L2 Cache - 4MB&nbsp;</li><li>L3 Cache - 8MB&nbsp;</li><li>Lithography: 28NM TSMC</li><li>SKUs:&nbsp;OA1170AQD8NAD [BGA:\"SP1\", OEM/Tray, Jan 2016]</li><li>CPU Clock GHz - 2.0&nbsp;</li><li>Temp Range&nbsp;: 0C – 80C\n<br></li>\n  </ul>\n\n    <h2 id=\"memory-specifications\">\n      Memory Specifications\n    </h2>\n\n  <ul>\n    <li>Max Supported Memory: 128GB</li><li>Dual Channel [2 DIMMs per Channel]</li><li>Max DDR3 Rate - 1600MHz</li><li>Max DDR4 Rate - 1866MHz</li><li>ECC : Yes</li>\n  </ul>\n\n    <h2 id=\"igpuintegrated-peripherals\">\n      iGPU/Integrated Peripherals\n    </h2>\n\n  <ul>\n    <li>iGPU: N/A</li><li>PCIe 3.0 8 lanes&nbsp;</li><li>SATA 6GB/S*14&nbsp;</li><li>Network: 10GbE x2&nbsp;</li><li>Misc: I2C; SPI; UART</li>\n  </ul>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+                   "amd"
+            ],
+            "date_published": "2020-10-31T16:35:30+05:30",
+            "date_modified": "2020-10-31T16:40:40+05:30"
+        }
     ]
 }
