@@ -3,7 +3,7 @@
     <title>CCXFied Official</title>
     <link href="https://ccxfied.github.io/feed.xml" rel="self" />
     <link href="https://ccxfied.github.io" />
-    <updated>2020-10-31T17:14:52+05:30</updated>
+    <updated>2020-11-02T10:56:18+05:30</updated>
     <author>
         <name>Cortex Cortexified</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://ccxfied.github.io/qualcomm-snapdragon-865.html</id>
             <category term="snapdragon"/>
 
-        <updated>2020-10-31T17:14:52+05:30</updated>
+        <updated>2020-11-02T10:56:18+05:30</updated>
             <summary>
                 <![CDATA[
                      Cluster(s)/big.LITTLE Configuration: Cortex A77 "Kryo 585 Gold" @ 2.84GHz x1 [L1:128KiB;&hellip;
@@ -42,6 +42,23 @@
   <ul>
     <li>L3 Cache: 4MiB</li><li>Quad Channel Memory; Single Controller</li><li>Upto 16GiB LPPDDR5-5500</li>
   </ul>
+
+    <h2 id="igpuintegrated-peripherals">
+      iGPU/Integrated Peripherals
+    </h2>
+
+  <ul>
+    <li>Qualcomm Adreno 650 [@250MHz Base ~ 600MHz Burst Frequency]</li><li>Qualcomm Spectra 480 ISP : Dual 14-bit CV-ISPs<br></li><li>FastConnect 6800 Module<br></li><li>Snapdragon X55 5G Modem</li>
+  </ul>
+
+    <h2 id="sku-information">
+      SKU Information
+    </h2>
+
+  <p>
+    Model Number: SDM865
+<br>Part Number: SM8250
+  </p>
             ]]>
         </content>
     </entry>
