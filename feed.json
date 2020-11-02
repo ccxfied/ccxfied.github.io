@@ -10,6 +10,51 @@
     },
     "items": [
         {
+            "id": "https://ccxfied.github.io/qualcomm-snapdragon-865-4.html",
+            "url": "https://ccxfied.github.io/qualcomm-snapdragon-865-4.html",
+            "title": "Qualcomm Snapdragon 855+",
+            "summary": " Cluster(s)/big.LITTLE Configuration: Cortex A76 \"Kryo 485 Gold\" @ 2.96GHz x1 [Shared&hellip;",
+            "content_html": "\n    <h2 id=\"clustersbiglittle-configuration\">\n      Cluster(s)/big.LITTLE Configuration:\n    </h2>\n\n  <ul>\n    <li>Cortex A76 \"Kryo 485 Gold\" @ 2.96GHz x1 [Shared with Cluster 2]</li><li>Cortex A76 \"Kryo 485 Gold\" @ 2.42GHz x3 [L1:512KiB; L2:1MiB]</li><li>Cortex A55 \"Kryo 485 Silver\" @ 1.8GHz x4 [L1:512KiB; L2:512KiB]</li>\n  </ul>\n\n    <h2 id=\"memory-specifications\">\n      Memory Specifications:\n    </h2>\n\n  <ul>\n    <li>L3 Cache: 2MiB</li><li>Quad Channel Memory; Single Controller</li><li>Upto 16GiB LPDDR4X-4266</li>\n  </ul>\n\n    <h2 id=\"igpuintegrated-peripherals\">\n      iGPU/Integrated Peripherals\n    </h2>\n\n  <ul>\n    <li>Qualcomm Adreno 640 [@250MHz Base ~ 700MHz Burst Frequency]</li><li>Qualcomm Spectra 380 ISP : Dual 14-bit CV-ISPs<br></li><li>FastConnect 6200 Module<br></li><li>X24 Modem [Optional X50 5G Modem on a separate chip]</li>\n  </ul>\n\n    <h2 id=\"sku-information\">\n      SKU Information\n    </h2>\n\n  <p>\n    Model Number\tSDM855AC<br>Part Number\tSM8150AC\n  </p>",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+                   "snapdragon"
+            ],
+            "date_published": "2020-11-02T11:13:14+05:30",
+            "date_modified": "2020-11-02T11:16:22+05:30"
+        },
+        {
+            "id": "https://ccxfied.github.io/qualcomm-snapdragon-865-3.html",
+            "url": "https://ccxfied.github.io/qualcomm-snapdragon-865-3.html",
+            "title": "Qualcomm Snapdragon 855",
+            "summary": " Cluster(s)/big.LITTLE Configuration: Cortex A76 \"Kryo 485 Gold\" @ 2.84GHz x1 [L1:128KiB;&hellip;",
+            "content_html": "\n    <h2 id=\"clustersbiglittle-configuration\">\n      Cluster(s)/big.LITTLE Configuration:\n    </h2>\n\n  <ul>\n    <li>Cortex A76 \"Kryo 485 Gold\" @ 2.84GHz x1 [L1:128KiB; L2:512KiB]</li><li>Cortex A76 \"Kryo 485 Gold\" @ 2.42GHz x3 [L1:384KiB; L2:768KiB]</li><li>Cortex A55 \"Kryo 485 Silver\" @ 1.8GHz x4 [L1:512KiB; L2:512KiB]</li>\n  </ul>\n\n    <h2 id=\"memory-specifications\">\n      Memory Specifications:\n    </h2>\n\n  <ul>\n    <li>L3 Cache: 4MiB</li><li>Quad Channel Memory; Single Controller</li><li>Upto 16GiB LPDDR4X-4266</li>\n  </ul>\n\n    <h2 id=\"igpuintegrated-peripherals\">\n      iGPU/Integrated Peripherals\n    </h2>\n\n  <ul>\n    <li>Qualcomm Adreno 640 [@250MHz Base ~ 600MHz Burst Frequency]</li><li>Qualcomm Spectra 380 ISP : Dual 14-bit CV-ISPs<br></li><li>FastConnect 6200 Module<br></li><li>X24 Modem [Optional X50 5G Modem on a separate chip]</li>\n  </ul>\n\n    <h2 id=\"sku-information\">\n      SKU Information\n    </h2>\n\n  <p>\n    Model Number\tSDM855\n<br>Part Number\tSM8150\n  </p>",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+                   "snapdragon"
+            ],
+            "date_published": "2020-11-02T11:03:21+05:30",
+            "date_modified": "2020-11-02T11:18:06+05:30"
+        },
+        {
+            "id": "https://ccxfied.github.io/qualcomm-snapdragon-865-2.html",
+            "url": "https://ccxfied.github.io/qualcomm-snapdragon-865-2.html",
+            "title": "Qualcomm Snapdragon 865+",
+            "summary": " Cluster(s)/big.LITTLE Configuration: Cortex A77 \"Kryo 585 Gold\" @ 3.1GHz x1 [L1:128KiB;&hellip;",
+            "content_html": "\n    <h2 id=\"clustersbiglittle-configuration\">\n      Cluster(s)/big.LITTLE Configuration:\n    </h2>\n\n  <ul>\n    <li>Cortex A77 \"Kryo 585 Gold\" @ 3.1GHz x1 [L1:128KiB; L2:512KiB]</li><li>Cortex A77 \"Kryo 585 Gold\" @ 2.42GHz x3 [L1:384KiB; L2:768KiB]</li><li>Cortex A55 \"Kryo 585 Silver\" @ 1.8GHz x4 [L1:512KiB; L2:512KiB]</li>\n  </ul>\n\n    <h2 id=\"memory-specifications\">\n      Memory Specifications:\n    </h2>\n\n  <ul>\n    <li>L3 Cache: 4MiB</li><li>Quad Channel Memory; Single Controller</li><li>Upto 16GiB LPPDDR5-5500</li>\n  </ul>\n\n    <h2 id=\"igpuintegrated-peripherals\">\n      iGPU/Integrated Peripherals\n    </h2>\n\n  <ul>\n    <li>Qualcomm Adreno 650 [@250MHz Base ~ 600MHz Burst Frequency]</li><li>Qualcomm Spectra 480 ISP : Dual 14-bit CV-ISPs<br></li><li>FastConnect 6900 Module<br></li><li>Snapdragon X55 5G Modem</li>\n  </ul>",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+                   "snapdragon"
+            ],
+            "date_published": "2020-11-02T10:57:35+05:30",
+            "date_modified": "2020-11-02T11:12:26+05:30"
+        },
+        {
             "id": "https://ccxfied.github.io/qualcomm-snapdragon-865.html",
             "url": "https://ccxfied.github.io/qualcomm-snapdragon-865.html",
             "title": "Qualcomm Snapdragon 865",
